@@ -28,7 +28,7 @@ public class GitHubTest extends Application {
             @Override
             public void handle(ActionEvent event) {
                 System.out.println("Hello World!");
-                System.out.println("llamada al reporter");
+                System.out.println("llamada al reporter localmente");
                 
             }
         });
