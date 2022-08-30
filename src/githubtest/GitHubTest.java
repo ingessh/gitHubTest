@@ -29,6 +29,7 @@ public class GitHubTest extends Application {
             public void handle(ActionEvent event) {
                 System.out.println("Hello World!");
                 System.out.println("llamada al reporter localmente");
+                System.out.println("last commit");
                 
             }
         });
