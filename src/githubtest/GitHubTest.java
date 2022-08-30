@@ -31,6 +31,7 @@ public class GitHubTest extends Application {
                 System.out.println("llamada al reporter localmente");
                 System.out.println("last commit");
                 System.out.println("change in github");
+                System.out.println("otro cambio en github");
                 
             }
         });
